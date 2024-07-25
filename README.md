@@ -5,9 +5,10 @@
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
 
-<div id="main image" align="center">
-  <img src="https://github.com/AmandaM2/mlflow-classification/blob/main/Anime%20Image.png" width="550" height="300" alt=""/>
+<div align="center" style="font-size: 40%; text-align: center; margin: 0 auto">
+    <img src="https://mcdn.wallpapersafari.com/medium/67/98/JKSuGa.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 800px; height: 200px;" />
 </div>
+
 
 ## Table of contents
 * [1. Project Overview](#project-description)
